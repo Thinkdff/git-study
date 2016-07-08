@@ -1,8 +1,10 @@
 ﻿git add xxx  // 将文件添加到暂存区
-git commit -m 'inf' //将暂存区的文件添加到仓库
+git commit -m 'inf' //将暂存区的文件当前分支
 git diff // 查看本地仓库和暂存区的差异
 
 git --hard HEAD^ //回到上一个版本
 在git中HEAD表示当前版本，上一个是HEAD^,上上一个HEAD^^,上一百个HEAD~100
 git --hard 32b423 // 定位到commitId版本
 git reflog // 用来记录你的每一次的命令
+
+管理修改测
