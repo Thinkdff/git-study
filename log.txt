@@ -1,3 +1,4 @@
 ﻿git add xxx  // 将文件添加到暂存区
 git commit -m 'inf' //将暂存区的文件添加到仓库
 git diff // 查看本地仓库和暂存区的差异
+callback test
