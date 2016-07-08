@@ -7,4 +7,5 @@ git --hard HEAD^ //回到上一个版本
 git --hard 32b423 // 定位到commitId版本
 git reflog // 用来记录你的每一次的命令
 
-管理修改测1
+//git commit只负责把暂存区的修改提交了，而没有添加到
+//暂存区的本地修改不会被提交
