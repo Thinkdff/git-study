@@ -1,2 +1,2 @@
 ﻿git add xxx  // 将文件添加到暂存区
-git commit -m 'info' //将暂存区的文件添加到仓库
+git commit -m 'inf' //将暂存区的文件添加到仓库
